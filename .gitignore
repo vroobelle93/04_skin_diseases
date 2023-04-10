@@ -3,3 +3,7 @@
 **/.idea
 **/Dokumenty
 **/archive
+**/trained_models
+
+# Files
+backup.ipynb
